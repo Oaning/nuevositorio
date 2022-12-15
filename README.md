@@ -1,2 +1,0 @@
-# nuevositorio
-nuevo repositorio
